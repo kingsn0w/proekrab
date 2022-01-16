@@ -3,7 +3,9 @@
 1) Скачиваем PyCharm и устанавливаем ([ссылка на файл](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC))
 
 2) Создание проекта ![](img/sozd_proj.png)
-Нажимаем на New Project. В новом окне нажимаем на Create. 
+Нажимаем на New Project. 
+
+В новом окне нажимаем на Create. 
 ![](img/project.png)
 созданный проект
 
